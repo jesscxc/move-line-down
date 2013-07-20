@@ -1,0 +1,38 @@
+[
+	{
+		"args": null,
+		"command": "toggle_bookmark"
+	},
+	{
+		"args":
+		{
+			"by": "lines",
+			"extend": true,
+			"forward": true
+		},
+		"command": "move"
+	},
+	{
+		"args": null,
+		"command": "cut"
+	},
+	{
+		"args":
+		{
+			"to": "eof"
+		},
+		"command": "move_to"
+	},
+	{
+		"args": null,
+		"command": "paste"
+	},
+	{
+		"args": null,
+		"command": "prev_bookmark"
+	},
+	{
+		"args": null,
+		"command": "clear_bookmarks"
+	}
+]

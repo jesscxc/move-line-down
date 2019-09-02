@@ -33,12 +33,16 @@ CMD+SHIFT+F2; clear bookmark
 
 CTRL+Q; stop recording macro
 
-Now put the cursor in front of the line you want to copy and move down and:
+Now put the cursor in front of the line you want to copy and move down and:<br>
 CTRL+SHIFT+Q; activate macro
 
 Hope that's useful!
 
 
-2013-07 | 
-Jesse Cummins | 
-https://github.com/jessc
+(created ty13.7s)<br>
+(updated ty19.9.2.14.21.00pzm4d1s)<br>
+Jess Cummins<br>
+[http://noliesplease.com/](http://noliesplease.com)<br>
+[https://github.com/jesscxc](https://github.com/jesscXC/)<br>
+[More Sublime macros](https://github.com/jesscXC/macros_sublime)<br>
+
